@@ -2,7 +2,7 @@
 
 Aqui você cria e gerencia os posts que aparecem no feed do app. 
 
-# Principais pontos 
+## Principais pontos 
 - Categorias
   - Lembre-se de criar as categorias dos posts antes de criar o post!
   - No app, elas funcionam como filtro  
